@@ -4,7 +4,9 @@ This is a Realtime chat app with websockets using Node.js, Express and Socket.io
 # Usage
 ```
 npm install
-npm run dev
+npm start
 
 Go to localhost:3000
 ```
+![](https://res.cloudinary.com/dni9bshab/image/upload/v1680628719/simple%20chat%20app/chat-app-demo-1_vn6zsf.png)
+![](https://res.cloudinary.com/dni9bshab/image/upload/v1680628427/simple%20chat%20app/chat-app-demo_pryjhk.png)
